@@ -1,0 +1,19 @@
+BIKE STUFF — источники каталога
+
+Каталог включает реальные модели разных категорий. Фотографии загружаются напрямую с сайтов производителей и веломагазинов; перед коммерческим использованием необходимо подтвердить право на использование изображений у правообладателей/поставщиков.
+
+Specialized Rockhopper 2026 — https://www.balfesbikes.co.uk/bikes/mountain-bikes/specialized-rockhopper-hardtail-mountain-bike-2026-in-gloss-sky-blue-majesty-blue-mettalic__94831
+Trifox SDY20 — https://www.trifoxbike.com/sdy20-bike
+Giant Trance X 2 — https://www.giant-bicycles.com/gb/trance-x-2-2024
+SUNN Radical Factory — https://www.sunn.fr/fr/radical-factory/
+Olympia Hekton 160 EVO-R — https://ebikelab.it/olympia-cicli-hekton-160-evo-r-cc28-bohk605c28
+Patrol E-Seven S-Spec — https://patrolmountain.com.au/products/patrol-e-seven-s-spec
+Trek Domane SL 5 Gen 4 — https://www.zonacycles.com/2024-trek-domane-sl-5-gen-4-road-bike
+Canyon Grizl AL — https://www.cyclingnews.com/news/canyon-releases-aluminium-version-of-grizl-gravel-bike/
+Mongoose Legion L60 — https://int.mongoose.com/products/legion-l60
+Giant Escape 1 City Disc — https://www.cycles-blain.com/vtc-musculaire/625-escape-1-city-disc-giant-4712878797949.html
+
+Цены в каталоге не выдумываются: кнопка ведёт в Telegram для уточнения цены, размера, года и наличия конкретной комплектации.
+
+
+Логотип BIKE STUFF: встроен локально в assets/bike-stuff-logo.jpg из ранее предоставленного пользователем оригинального файла C1AE177F-DFEB-496F-A936-87B36EC31B5E.jpeg.
